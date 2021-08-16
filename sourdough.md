@@ -91,9 +91,17 @@ At this point, you should be ready for bed if you intend on an overnight bulk, o
 
 ## Shaping
 
-After 8-9 hours, your sample should have doubled (or more) in size. If it has not doubled, you may want to wait a bit longer. If it has tripled, you may have over proofed your dough, and the next time around, consider less sleep or colder proofing temperatures.
+After 8-9 hours, your sample should have doubled (or more) in size.
 
-Your dough should have large visible bubbles and a nice slightly domed shape in the mixing bowl. It should jiggle pleasantly like very loose jello if you shake the bowl (gently). If the dome collapses, on the other hand, it is another sign your dough may have overproofed.
+![sample](images/sample.jpg)
+
+If it has not doubled, you may want to wait a bit longer. If it has tripled, you may have over proofed your dough, and the next time around, consider less sleep or colder proofing temperatures.
+
+Your dough should have large visible bubbles and a nice slightly domed shape in the mixing bowl. It should jiggle pleasantly like very loose jello if you shake the bowl (gently).
+
+![jiggle](videos/01-after-bulk.gif)
+
+If the dome collapses, on the other hand, it is another sign your dough may have overproofed.
 
 It is helpful to visualize a "top" side (tensioned/stretched, floured) and bottom side (slack, sticky). The "top" side of your dough is the part that is (currently) at the bottom of the bowl, the "bottom" side of your dough is facing up, exposed.
 
@@ -231,3 +239,6 @@ The most time consuming parts are stretch/folding and shaping.
 Nothing above should be taken as "must", or as hard and fast rules. They just work for me. I think there are too many things presented as "rules" on the internet, so take any/all of them with a grain of salt. The fun thing about sourdough is doing your own thing, and trying stuff out, especially to fit in with your particular schedule and conditions.
 
 There are tons of videos that show shaping/scoring/folding/kneading techniques etc. so they are not explicitly described here. Use your own judgment, and pick one that works best for you.
+
+![done](images/done.jpg)
+![slices](images/slices.jpg)
